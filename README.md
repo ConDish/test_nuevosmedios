@@ -44,7 +44,7 @@ bd/arma/positionid/positioninfo.json
        - Agregar a bination.json gema
        - Agregar a bination.json dinastia
        - Agregar a bination.json poder
-- Fin Mientras
+    - Fin Mientras
 
 - Fin
 
