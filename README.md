@@ -49,15 +49,15 @@ bd/arma/positionid/positioninfo.json
 - Fin
 
 ## Numero 1.2
-Inicio
-    Crear variable sum
-    Mientras directorios sea menor a su longitud
-        Entonces
-            Entrar a directorio
-            Entrar a subdirectorio combinaciones
-            Obtener informacion de bination.json
-            Sum es igual a informacion de bination.json
-        Fin Mientras
-    Mostrar sum
-Fin
+- Inicio
+    - Crear variable sum
+    - Mientras directorios sea menor a su longitud
+        - Entonces
+           - Entrar a directorio
+           - Entrar a subdirectorio combinaciones
+           - Obtener informacion de bination.json
+           - Sum es igual a informacion de bination.json
+       - Fin Mientras
+    - Mostrar sum
+- Fin
 
